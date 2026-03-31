@@ -1,0 +1,71 @@
+Proprietary Free-Use License
+
+Copyright (c) 2026 Piqued AI, LLC. All rights reserved.
+
+1. Grant of Use. You may use this software free of charge for any
+purpose (subject to the restrictions in Paragraph 2 of this license),
+including personal, commercial, educational, and government use. No
+account, registration, or license key is required.
+
+2. Restrictions. You may not: (a) redistribute, sublicense, sell,
+lease, or make this software available to third parties as a download,
+hosted service, managed service, or embedded component of another
+product or service; (b) modify, adapt, or create derivative works of
+this software; (c) reverse engineer, decompile, disassemble, or
+extract source code from this software. For clarity, "hosted service"
+means any arrangement where third parties outside your organization
+access or benefit from the functionality of this software over a
+network, whether or not you charge a fee. Use of this software within
+your own organization on internal networks is permitted.
+
+3. Protocol Distinction. This software implements the pqdx protocol.
+The pqdx protocol specification, schema, and file format are separately
+licensed under CC-BY-ND 4.0 and are not subject to the restrictions
+above. Nothing in this license restricts your right to create
+independent implementations of the pqdx protocol. See https://pqdx.dev
+for the open protocol.
+
+4. Ownership. This software and all copies remain the exclusive
+property of Piqued AI, LLC. All rights not expressly granted in
+Paragraph 1 are reserved.
+
+5. Termination. If you breach any term of this license, Piqued AI, LLC
+will provide written notice describing the breach. You have 30 days
+from receipt of notice to cure the breach. If the breach is not cured
+within 30 days, this license terminates automatically. Upon
+termination, you must cease all use of the software and destroy all
+copies in your possession. Termination does not limit Piqued AI's
+right to seek damages or other relief for the breach.
+
+6. No Warranty. THIS SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF
+ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES
+OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND
+NONINFRINGEMENT. IN NO EVENT SHALL PIQUED AI, LLC BE LIABLE FOR ANY
+CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OF THIS
+SOFTWARE.
+
+7. Venue and Governing Law. By use of this license, you submit to the
+jurisdiction and venue of the state and federal courts located in Kent
+County, Delaware for any legal claim arising out of your use or
+violation of this license. This license is governed by the laws of the
+State of Delaware.
+
+8. Violation. If you violate the terms of this license, including but
+not limited to Paragraph 2(a), (b), or (c), Piqued AI, LLC has the
+right to seek injunctive relief against you and you consent to such
+action being brought in the state and federal courts located in Kent
+County, Delaware, as set forth in Paragraph 7, and to actual or liquidated damages of
+$1,000 per day of continuing violation (which you agree is reasonable
+and not punitive), plus attorneys' fees incurred.
+
+9. Assignment. You may not assign or transfer this license or any
+rights granted under it. Piqued AI, LLC may assign this license
+freely, including in connection with a merger, acquisition, or sale
+of assets.
+
+10. General. If any provision of this license is held unenforceable,
+the remaining provisions remain in full force and effect. This license
+constitutes the entire agreement between you and Piqued AI, LLC
+regarding use of the software and supersedes all prior agreements,
+representations, and understandings. Piqued AI, LLC's failure to
+enforce any provision does not constitute a waiver of that provision.
