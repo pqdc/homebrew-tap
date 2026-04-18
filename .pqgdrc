@@ -1,0 +1,8 @@
+﻿# .pqgdrc -- Packaging / Distribution
+# Tuned for Homebrew taps, Scoop buckets, PyPI wrappers.
+
+exclude = .DS_Store Thumbs.db *.tar.gz *.whl dist build
+max_size = 2
+head = 120
+md = true
+tokens = true
